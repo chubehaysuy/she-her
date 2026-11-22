@@ -2,7 +2,7 @@ local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
 
 if game.GameId == 994732206 then
-    loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/baa0487f81b67562dd543acfb4add86e929e46aa6a3fd566a73884a13e0cf280/download"))()
+    loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/ef2347fbb3695c78eec1533afaad07eb520613ebcba52f20f553f08cb9e31d63/download"))()
 else
     LocalPlayer:Kick("Error!")
 end
